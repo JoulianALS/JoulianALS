@@ -47,10 +47,10 @@ Here's a glimpse into the tech and tools I work with:
 Want to collaborate or just chat about cool ideas? Reach out:
 
 <div align="center">
-  <a href="[https://JoulianALS.github.io/](https://joulianals.github.io/joulian-portfolio/)" target="_blank">
+  <a href="https://joulianals.github.io/joulian-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/joulian-alsuliman-06004535a" target="_blank">
+  <a href="https://www.linkedin.com/in/joulian-alsuliman-06004535a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:joulianalsuliman@gmail.com">
