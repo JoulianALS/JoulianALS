@@ -12,7 +12,7 @@
 
 I’m a multi-talented all-round developer with a passion for IT and learning.
 
-- 🧠 Languages I speak: English, Arabic, German  
+- 🧠 Languages I speak: English, German, Arabic  
 - 🧪 Always experimenting with new tools and frameworks  
 
 ---
